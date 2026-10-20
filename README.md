@@ -53,9 +53,9 @@ SSAFY 15기 특화 프로젝트 · 6인 팀
     <th width="33%">여행 중 일정</th>
   </tr>
   <tr>
-    <td><img src="docs/media/trip-create.jpg" alt="출발지·시간·이동 수단을 입력하는 여행 계획 화면" width="260" /></td>
-    <td><img src="docs/media/course-candidates.jpg" alt="코스 후보와 확인이 필요한 조건을 안내하는 화면" width="260" /></td>
-    <td><img src="docs/media/trip-timeline.jpg" alt="여행 중 다음 방문지와 일자별 일정을 확인하는 화면" width="260" /></td>
+    <td><img src="docs/media/trip-create-phone.png" alt="출발지·시간·이동 수단을 입력하는 여행 계획 화면" width="260" /></td>
+    <td><img src="docs/media/course-candidates-phone.png" alt="코스 후보와 확인이 필요한 조건을 안내하는 화면" width="260" /></td>
+    <td><img src="docs/media/trip-timeline-phone.png" alt="여행 중 다음 방문지와 일자별 일정을 확인하는 화면" width="260" /></td>
   </tr>
 </table>
 
@@ -70,9 +70,9 @@ SSAFY 15기 특화 프로젝트 · 6인 팀
     <th width="33%">여행 기록 피드</th>
   </tr>
   <tr>
-    <td><img src="docs/media/assistant.jpg" alt="여행 상담과 현지 도구를 안내하는 AI 도우미 화면" width="260" /></td>
-    <td><img src="docs/media/travel-tools.jpg" alt="메뉴판 번역·통역·AI 챗봇 도구를 여는 화면" width="260" /></td>
-    <td><img src="docs/media/feed.jpg" alt="사진과 장소가 연결된 부산 여행 기록 피드" width="260" /></td>
+    <td><img src="docs/media/assistant-phone.png" alt="여행 상담과 현지 도구를 안내하는 AI 도우미 화면" width="260" /></td>
+    <td><img src="docs/media/travel-tools-phone.png" alt="메뉴판 번역·통역·AI 챗봇 도구를 여는 화면" width="260" /></td>
+    <td><img src="docs/media/feed-phone.png" alt="사진과 장소가 연결된 부산 여행 기록 피드" width="260" /></td>
   </tr>
 </table>
 
