@@ -1,0 +1,98 @@
+[
+  {
+    "name": "react",
+    "file": "react.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "spring",
+    "file": "spring.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "nginx",
+    "file": "nginx.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "docker",
+    "file": "docker.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "gitlab",
+    "file": "gitlab.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gitlab.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "jenkins",
+    "file": "jenkins.svg",
+    "url": "https://raw.githubusercontent.com/jenkins-infra/jenkins.io/master/content/images/logos/jenkins/jenkins.svg",
+    "provider": "Jenkins"
+  },
+  {
+    "name": "expo",
+    "file": "expo.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/expo.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "typescript",
+    "file": "typescript.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "python",
+    "file": "python.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "nodedotjs",
+    "file": "nodedotjs.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "postgresql",
+    "file": "postgresql.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "flyway",
+    "file": "flyway.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flyway.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "apachekafka",
+    "file": "apachekafka.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "googlegemini",
+    "file": "googlegemini.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "minio",
+    "file": "minio.svg",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minio.svg",
+    "provider": "Simple Icons"
+  },
+  {
+    "name": "java",
+    "file": "java.svg",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+    "provider": "Devicon"
+  }
+]
