@@ -10,6 +10,10 @@
 
 SSAFY 15기 특화 프로젝트 · 6인 팀
 
+## 영상 포트폴리오
+
+[▶ GABOLLE 영상 포트폴리오: TRIP TO BUSAN](https://youtu.be/4VxillngQsY)
+
 ## 서비스 화면
 
 ![가볼래 웹 홈 — 부산 여행 기록과 축제 탐색](docs/media/home-web.jpg)
